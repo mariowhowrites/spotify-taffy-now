@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "spotify-taffy",
+  "builds": [
+    {
+      "src": "*",
+      "use": "@now/static"
+    }
+  ],
+  "alias": ["mariowhowrites.com", "www.mariowhowrites.com"]
+}
